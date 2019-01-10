@@ -1,4 +1,4 @@
-# onnxSampleRunner
+# onnxModelRunner
 This is test tool for geting test-output-data of onnx models.
 
 ## Prerequisites
