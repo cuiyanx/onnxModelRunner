@@ -1,5 +1,5 @@
 {
-  "name": "onnxSampleRunner",
+  "name": "onnxModelRunner",
   "version": "1.0.0",
   "description": "get test-output-data of onnx models",
   "main": "./src/main.py",
@@ -8,13 +8,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cuiyanx/onnxSampleRunner.git"
+    "url": "git+https://github.com/cuiyanx/onnxModelRunner.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/cuiyanx/onnxSampleRunner/issues"
+    "url": "https://github.com/cuiyanx/onnxModelRunner/issues"
   },
-  "homepage": "https://github.com/cuiyanx/onnxSampleRunner#readme"
+  "homepage": "https://github.com/cuiyanx/onnxModelRunner#readme"
 }
