@@ -2,8 +2,19 @@
 This is test tool for geting test-output-data of onnx models.
 
 ## Prerequisites
+* Required `python 3.6.x`
 * Required [onnx](https://github.com/onnx/onnx) project.
+
+	```
+	sudo apt-get install protobuf-compiler libprotoc-dev
+	pip3 install onnx
+	```
+
 * Required [onnx-models](https://github.com/onnx/models) project.
+
+	```
+	pip3 install tensorflow onnx-tf numpy
+	```
 
 ## Run Tests
 
